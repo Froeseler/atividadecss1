@@ -39,6 +39,7 @@ Este projeto é um exemplo de interface para uma nave espacial, com foco em:
 
 ```plaintext
 /
+├── icon.ico            # icone do site
 ├── index.html          # Arquivo principal do site
 ├── style.css           # Estilos CSS
 ├── /imagens            # Imagens dos planetas
