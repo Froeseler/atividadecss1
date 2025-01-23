@@ -1,10 +1,9 @@
 /* Estilo global */
-body, html {
+body {
     margin: 0;
     font-family: 'Orbitron', sans-serif;
     color: #00ffcc;
     background: radial-gradient(circle, #000000, #020a19, #001f33);
-    overflow-y: auto; /* Garante que a rolagem funcione */
 }
 
 /* Cabeçalho */
@@ -93,7 +92,3 @@ footer {
     color: #00ffcc;
 }
 
-
-header h1, footer p {
-    animation: pulse 2s infinite;
-}
